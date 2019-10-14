@@ -1,0 +1,78 @@
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\bin\Debug\MusicWinFormApp.exe.config
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\bin\Debug\MusicWinFormApp.exe
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\bin\Debug\MusicWinFormApp.pdb
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.csprojAssemblyReference.cache
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.Properties.Resources.resources
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.csproj.GenerateResource.cache
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.exe
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.pdb
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.MainForm.resources
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.csproj.ResolveComReference.cache
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.routes.Home.resources
+C:\Users\Liu\source\repos\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.routes.MusicList.resources
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\bin\Debug\MusicWinFormApp.exe.config
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\bin\Debug\MusicWinFormApp.exe
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\bin\Debug\MusicWinFormApp.pdb
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.csprojAssemblyReference.cache
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.csproj.ResolveComReference.cache
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.MainForm.resources
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.Properties.Resources.resources
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.routes.Home.resources
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.routes.MusicList.resources
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.csproj.GenerateResource.cache
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.exe
+C:\Users\Liu\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.pdb
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\bin\Debug\MusicWinFormApp.exe.config
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\bin\Debug\MusicWinFormApp.exe
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\bin\Debug\MusicWinFormApp.pdb
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.csprojAssemblyReference.cache
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.csproj.ResolveComReference.cache
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.MainForm.resources
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.Properties.Resources.resources
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.routes.Home.resources
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.Routes.MusicCollection.resources
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.Routes.MusicFavorite.resources
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.Routes.MusicHistory.resources
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.routes.MusicList.resources
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.csproj.GenerateResource.cache
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.exe
+C:\Users\Y-Y-L\Documents\Tencent Files\1084406631\FileRecv\MusicWinFormApp\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.pdb
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\bin\Debug\MusicWinFormApp.exe.config
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\bin\Debug\MusicWinFormApp.exe
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\bin\Debug\MusicWinFormApp.pdb
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.csprojAssemblyReference.cache
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.csproj.ResolveComReference.cache
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.MainForm.resources
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.Properties.Resources.resources
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.routes.Home.resources
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.Routes.MusicCollection.resources
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.Routes.MusicFavorite.resources
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.Routes.MusicHistory.resources
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.routes.MusicList.resources
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.csproj.GenerateResource.cache
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.exe
+C:\Users\Surface\Desktop\MusicWinFormApp\MusicWinFormApp\obj\Debug\MusicWinFormApp.pdb

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MusicWinFormApp",
+    "\\MusicWinFormApp\\bin",
+    "\\MusicWinFormApp\\bin\\Debug",
+    "\\MusicWinFormApp\\bin\\Debug\\XmlFiles",
+    "\\MusicWinFormApp\\Models",
+    "\\MusicWinFormApp\\Routes",
+    "\\MusicWinFormApp\\XmlRepositories"
+  ],
+  "SelectedNode": "\\MusicWinFormApp\\bin\\Debug\\XmlFiles\\Musics.xml",
+  "PreviewInSolutionExplorer": false
+}

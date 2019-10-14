@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<musics>
+  <music>
+    <id>11</id>
+    <name>唐人-孙子涵-3373247.mp3</name>
+    <laoclpath>C:\Users\Surface\Desktop\dazuoye\唐人-孙子涵-3373247.mp3</laoclpath>
+    <musictype>1</musictype>
+  </music>
+  <music>
+    <id>12</id>
+    <name>你会爱我到什么时候-郑东-1073893.mp3</name>
+    <laoclpath>C:\Users\Surface\Desktop\dazuoye\你会爱我到什么时候-郑东-1073893.mp3</laoclpath>
+    <musictype>2</musictype>
+  </music>
+  <music>
+    <id>13</id>
+    <name>你会爱我到什么时候-郑东-1073893.mp3</name>
+    <laoclpath>C:\Users\Surface\Desktop\dazuoye\你会爱我到什么时候-郑东-1073893.mp3</laoclpath>
+    <musictype>1</musictype>
+  </music>
+  <music>
+    <id>14</id>
+    <name>岁月神偷-不才-6928430.mp3</name>
+    <laoclpath>C:\Users\Surface\Desktop\dazuoye\岁月神偷-不才-6928430.mp3</laoclpath>
+    <musictype>2</musictype>
+  </music>
+</musics>
